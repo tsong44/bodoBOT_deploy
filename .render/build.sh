@@ -1,0 +1,1 @@
+echo echo "Build script running..." > .render/build.sh
